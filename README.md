@@ -12,14 +12,14 @@
 
 ---
 
-### 💼 Featured Projects  
+### 💼 Featured Projects
 
-#### 🧠 [Asky AI](https://github.com/your-repo-link)  
+#### 🧠 [Asky AI](https://github.com/ashutoshpaliwal26/AskyAi.git)  
 - **Description:** An AI-powered solution built with the **GeminiAI model** for intelligent insights.  
 - **Tech Stack:** TypeScript, Docker, Prisma, PostgreSQL, and Monorepo architecture.  
 - **Highlights:** Efficient integration of AI with a robust backend powered by modern containerization and database management techniques.  
 
-#### 🌐 [Metaverse Realms Virtual Office](https://github.com/your-repo-link)  
+#### 🌐 [Metaverse Realms Virtual Office](https://github.com/ashutoshpaliwal26/virtual-office.git)  
 - **Description:** A 2D virtual office platform enabling real-time user interaction and collaboration.  
 - **Tech Stack:** TypeScript, React, Express, Socket.IO, MongoDB.  
 - **Highlights:** Immersive design with real-time updates and dynamic user movement.  
@@ -48,9 +48,8 @@
 ---
 
 ### 📫 Let's Connect!  
-- 🌐 [Portfolio Website](https://ashutosh-paliwal.dev)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-paliwal/)  
-- 🐦 [Twitter](https://twitter.com/ashutoshpaliwal)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshpaliwal26/)  
+- 🐦 [Twitter](https://x.com/APaliwal95348)  
 
 ---
 
