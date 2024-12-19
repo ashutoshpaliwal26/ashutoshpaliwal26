@@ -19,7 +19,7 @@ const Home = () => {
               <div className="transition ease-in-out w-10 h-10 rounded-full border cursor-pointer border-gray-500 hover:scale-110 hover:border-gray-400 hover:duration-300 hover:text-gray-400 animate-load-btn text-gray-400 flex justify-center items-center text-lg hover:delay-0"><Link href=""><Github /></Link></div>
               <div className="transition ease-in-out w-10 h-10 rounded-full border cursor-pointer border-gray-500 hover:scale-110 hover:border-gray-400 hover:duration-300 hover:text-gray-400 animate-load-btn text-gray-400 flex justify-center items-center text-lg hover:delay-0"><Link href=""><Linkedin /></Link></div>
             </div>
-            <button className='hover:scale110 w-fit h-fit p-3 rounded-lg bg-transparent border-2 border-orange-400 text-orange-400 flex items-center justify-center text-sm  hover:bg-orange-600 hover:text-white animate-load-text delay-700'>Contact Me</button>
+            <button className='hover:scale110 w-fit h-fit p-3 rounded-lg bg-transparent border-2 border-orange-400 text-orange-400 flex items-center justify-center text-sm  hover:bg-orange-600 hover:text-white animate-load-text'>Contact Me</button>
           </div>
           <div className='w-1/2 h-full flex justify-end'>
             <div className="border-2 p-2 border-orange-600 w-96 h-96 rounded-full animate-load-text duration-1000">
