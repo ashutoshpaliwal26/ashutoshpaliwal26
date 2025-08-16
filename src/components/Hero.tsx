@@ -51,10 +51,10 @@ const Hero = () => {
             </div>
 
             <a
-              href="#contact"
+              href="https://drive.google.com/file/d/1hBJgK5GqPTdZWbXySpRUpMuM83oy_9X5/view?usp=sharing"
               className="btn btn-primary bg-yellow-500 hover:bg-yellow-600 text-black btn-lg inline-flex items-center gap-2"
             >
-              Let's Connect
+              Download Resume
               <ArrowDown size={16} className="animate-bounce" />
             </a>
           </motion.div>
@@ -83,7 +83,7 @@ const Hero = () => {
             href="#about"
             className="flex flex-col items-center text-secondary-foreground hover:text-primary-foreground transition-colors max-xl:hidden"
           >
-            <span className="text-sm mb-2">Scroll Down</span>
+            <span className="text-sm mb-2">S</span>
             <ArrowDown size={20} className="animate-bounce" />
           </a>
         </motion.div>
