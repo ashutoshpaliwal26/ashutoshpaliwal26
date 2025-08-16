@@ -4,7 +4,7 @@
 **Full‑Stack Developer (React • Django • AI Integration)**  
 Building scalable, real‑time apps with **Kafka, Redis, GraphQL, WebSockets**, and modern DevOps.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-informational?logo=vercel)](ashutoshpaliwal.vercel.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-informational?logo=vercel)](ashutoshpaliwal.vercel.com)
 [![Email](https://img.shields.io/badge/Email-ashutoshpaliwal26%40gmail.com-red?logo=gmail)](mailto:ashutoshpaliwal26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ashutoshpaliwal26-black?logo=github)](https://github.com/ashutoshpaliwal26)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutoshpaliwal26-blue?logo=linkedin)](#)
